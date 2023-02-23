@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: bisque;
+}
+.container{
+    width: 1000px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.pic{
+width: 100px;
+height: 120px;
+border-radius: 50px;
+padding: 20px;
+float: left;
+opacity: 0.5;
+}
+.pic:hover{
+    color:green;
+    opacity: 1;
+}
+.head{
+    color:blue;
+    padding:30px;
+    float: left;
+    
+}
+.link{
+    float: right;
+    padding: 40px;
+    font-size: 20px;
+
+    
+}
+.link a{
+    text-decoration: none;
+
+}
+.link a:hover{
+    color:red;
+    
+    border:2px white dotted;
+   
+
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border:3px solid black;
+  
+}
+.info{
+   
+    color:blue;
+    float: left;
+    width: 30%;
+}
+.add{
+   width: 70%;
+   float: left;
+   color:green;
+}
+.kkk{
+    border: 2px solid black;
+}
+
+
+.subleft{
+    float:left;
+    width: 45%;
+}
+.subright{
+    float:right;
+    width: 45%;
+}
+.left{
+    float: left;
+    width: 30%;
+
+}
+.fa{
+   padding: 20px;
+    text-align: center;
+    background-color: black;
+}
+.fa a{
+    padding: 20px;
+}
+.fa a:hover{
+    color: white;
+}
+.copy{
+    color: white;
+   text-align: center;
+   padding: 20px;
+   
+}
